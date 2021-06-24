@@ -24,5 +24,5 @@ Step 3:
 Again goto CPANEL of your Educationhost.com --> Account Manager --> SSL Cerificate
 --Refer this ----> https://www.educationhost.co.uk/whmcs/index.php?rp=/knowledgebase/4075/How-to-install-an-SSL-certificate-in-DirectAdmin.html
 
-
+If you have any doubt refer this video: https://youtu.be/9hZWgZEczkA (some steps may differ)
 
