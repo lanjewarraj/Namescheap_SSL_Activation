@@ -24,7 +24,5 @@ Step 3:
 Again goto CPANEL of your Educationhost.com --> Account Manager --> SSL Cerificate
 --Refer this ----> https://www.educationhost.co.uk/whmcs/index.php?rp=/knowledgebase/4075/How-to-install-an-SSL-certificate-in-DirectAdmin.html
 
-Step 2: Login to your Namescheap account or click on this URL--https://ap.www.namecheap.com/ProductList/SslCertificates
-
 
 
